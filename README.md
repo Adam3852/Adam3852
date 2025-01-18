@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-# 💫 About Me:
-Hello! I'm a certain programmer that codes for Android, Visual Basic and Python. And Flipper Zero.
+# About Me:
+Hello! I'm a certain programmer that codes for Android, Visual Basic and Python.
 
 
 # 💻 Tech Stack:
